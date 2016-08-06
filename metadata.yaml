@@ -1,0 +1,29 @@
+_repo: Confessions-of-a-Young-Man_11654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Intellectual life'
+- !lcc 'PR'
+- !lcsh 'Moore, George, 1852-1933'
+- GITenberg
+title: Confessions of a Young Man
+url: http://www.gutenberg.org/ebooks/11654
